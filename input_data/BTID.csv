@@ -1,0 +1,10 @@
+BTID,Label,FullName,BCID
+1,EDUC,Educational buildings,2
+2,HORES,Hotels & Restaurants,2
+3,HOSP,Hospitals,2
+4,OTHER,Others,2
+5,RETAIL,Retails,2
+6,OFFICE,Offices,2
+7,SF,Single-family,1
+8,MF,Multi-family,1
+9,SLUM,Slum,3
