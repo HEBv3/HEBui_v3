@@ -10,7 +10,7 @@ This software uses open-source packages.
 
 Detailed description of the model can be found in the published research reports, the most essential ones also included in the [*`documentation`*](https://github.com/HEBv3/HEBui_v3/tree/main/documentation) folder.
 
-## How to cite
+## How to cite the HEB model
 
 In derived works, please cite the HEB model as:
 
@@ -19,7 +19,7 @@ In derived works, please cite the HEB model as:
 
 # Input data
 
-The input data of the model (the buildings' categorization scheme, as well as preprocessed background data derived from collected from several international statistical, economic, and demographic databases) can be found in the [*`input_data`*](https://github.com/HEBv3/HEBui_v3/tree/main/input_data) folder.
+The input data of the model (the buildings' categorization scheme, as well as preprocessed background data derived from several international statistical, economic, and demographic databases) can be found in the [*`input_data`*](https://github.com/HEBv3/HEBui_v3/tree/main/input_data) folder.
 
 # Downloading HEBui
 
